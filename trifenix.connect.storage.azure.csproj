@@ -55,9 +55,9 @@
  </Target>
 
   <ItemGroup>
-    <PackageReference Include="Azure.Storage.Blobs" Version="12.6.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.8.0" />
     <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
-    <PackageReference Include="trifenix.connect.interfaces" Version="0.8.12" />
+    <PackageReference Include="trifenix.connect.interfaces" Version="0.8.13" />
   </ItemGroup>
 
   
